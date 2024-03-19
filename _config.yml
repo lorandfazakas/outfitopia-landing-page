@@ -36,16 +36,16 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Keep track of your clothes
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Digitize your wardrobe
+    description                           : Categorize them by color, season, occasion or create your own custom categories.
     fontawesome_icon_name                 : tshirt
     
   - title                                 : Compose outfits
-    description                           : review your app in the context of an iPhone device. Five different device colors included.
+    description                           : Create endless looks that you truly love and build your own style.
     fontawesome_icon_name                 : star
 
-  - title                                 : Cloud Sync
-    description                           : Your data is seamlessly synchronized across multiple devices, ensuring a consistent and up-to-date experience.
+  - title                                 : Check your closet on the go
+    description                           : Your entire wardrobe are seamlessly synchronized across multiple devices.
     fontawesome_icon_name                 : cloud
 
 
@@ -55,7 +55,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage1.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage1.jpeg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.5
 
