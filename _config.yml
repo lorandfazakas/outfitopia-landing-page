@@ -25,7 +25,7 @@ your_link                                 :
 your_city                                 : 
 email_address                             : help@outfitopia.app
 facebook_username                         :                                           
-instagram_username                        : 
+instagram_username                        : outfitopia_app
 twitter_username                          : outfitopia_app
 github_username                           : 
 youtube_username                          :
@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Digitize your wardrobe
-    description                           : Categorize them by color, season, occasion or create your own custom categories.
+    description                           : Categorize clothes by color, season, occasion or create your own custom categories.
     fontawesome_icon_name                 : tshirt
     
   - title                                 : Compose outfits
